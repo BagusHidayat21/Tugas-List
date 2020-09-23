@@ -1,0 +1,13 @@
+.list {
+    margin: 10px;
+    border: 2px solid cyan;
+    background-color: cyan;
+}
+li {
+    border: 1px solid cyan;
+    background-color: white;
+    color: black;
+}
+.list1 {
+    border: 1px solid pink;
+    background-color: pink;
